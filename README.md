@@ -12,4 +12,5 @@ Use points to deform sprite:
 - `P1` control point for `P0`
 - `P2` control point for `P3`
 
+Video is here - https://www.youtube.com/watch?v=0qF01PD7kxY
 ![Screenshot](http://media.bigmoutheddog.com/misc/line_deform1.png)
