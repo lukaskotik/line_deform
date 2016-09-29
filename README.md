@@ -11,3 +11,5 @@ Use points to deform sprite:
 - `P3` ending point (bottom)
 - `P1` control point for `P0`
 - `P2` control point for `P3`
+
+![Screenshot](http://media.bigmoutheddog.com/misc/line_deform1.png)
