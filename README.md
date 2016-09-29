@@ -1,9 +1,9 @@
 # Line Deform
 
-Very simple tools to soft deforming of a line segment in Godot engine (https://godotengine.org/).
+Very simple tool to soft deforming of a line segment in Godot engine (https://godotengine.org/).
 It uses editor `tool` mode to set a deformation and `fragment` shader make the deformation.
 
-It's very far from perfect, but it can serve as a starting point.. 
+It's very far from perfect, but it can serve as a starting point... 
 
 Use points to deform sprite:
 
