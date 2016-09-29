@@ -7,7 +7,7 @@ It's very far from perfect, but it can serve as a starting point..
 
 Use points to deform sprite:
 
-`P0` starting point (top)
-`P3` ending point (bottom)
-`P1` control point for `P0`
-`P2` control point for `P3`
+- `P0` starting point (top)
+- `P3` ending point (bottom)
+- `P1` control point for `P0`
+- `P2` control point for `P3`
