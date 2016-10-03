@@ -50,7 +50,6 @@ func check_P1():
 		P1.set_pos(pos)
 		material.set_shader_param("P1", Vector2(pos.x / height, pos.y / height))
 		posP1 = pos
-		update()
 
 func check_P2():
 	var pos = P2.get_pos()
